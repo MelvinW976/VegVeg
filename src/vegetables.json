@@ -1,0 +1,129 @@
+{
+    "sungold": {
+        "id": 1,
+        "name": "Sungold",
+        "category": "tomato",
+        "intro":"F1 hybrid. Early-season cherry type fruit. 3 to 5 feet tall indeterminate plants bear 1 3/8 inch by 7/8 inch, oval to oblong, firm, meaty, clustered, golden-orange sweet fruit with few seeds and free of cracking. For greenhouse or field production. Disease resistant variety. Resistance to tobacco mosaic virus and Fusarium wilt race 1. About 57 to 60 days to maturity. Also known as 'Sun Gold'. ",
+        "img_path": "../assets/images/Sungold.jpg",
+        "yield": 2,
+        "taste": 5,
+        "reviews": ["r1","r2","r3","r4"]
+    },
+    "stupice": {
+        "name": "Stupice",
+        "category": "Lettuce",
+        "intro":"Lycopersicon esculentum. Open pollinated. Early season small standard type from Czechoslovakia. Indeterminate plants bear 2 to 3 inch, 1/4 pound fruit. About 55 days to maturity.",
+        "img_path": "../assets/images/Stupice.jpg",
+        "yield": 2,
+        "taste": 3,
+        "reviews":["r4","r5","r6","r7","r8","r9" ]
+    },
+    "brandywine": {
+        "name": "Brandywine",
+        "category": "Viburnum",
+        "intro":"Heirloom. Main season standard type. Indeterminate, potato-leaved plants bear 10 to 24 ounce, deeply lobed fruit with deep pink skin and red flesh. About 70 to 80 days to maturity. ",
+        "img_path": "../assets/images/Brandywine.jpg",
+        "yield": 5,
+        "taste": 3,
+        "reviews":["r6","r7","r8","r9","r10","r11"]
+    },
+    "cayenne": {
+        "name": "Cayenne Long",
+        "category": "Peppers",
+        "intro":"Hot cayenne type. Plants bear 5- to 6-inch, curved wrinkled, fiery-hot fruit that starts waxy green and matures to crimson. Excellent for drying. Also known as 'Long Red Cayenne' 'Red Cayenne' and 'Cayenne Long Thin' and 'Cayenne Long Slim'.",
+        "img_path": "../assets/images/Celebrity.jpg",
+        "yield": 5,
+        "taste": 5,
+        "reviews":["r8","r1", "r2", "r11","r3", "r6"]
+    },
+    "gonzales": {
+        "name": "Gonzales",
+        "category": "Cabbage",
+        "intro":"Hybrid. Early-season, common European variety producing dense, uniform, spicy, 4- to 6-inch. mini-heads. Also known as 'Gonzales Baby'. ",
+        "img_path": "../assets/images/Celebrity.jpg",
+        "yield": 5,
+        "taste": 5,
+        "reviews":["r7","r2","r4","r12","r13"]
+    },
+    "leeks": {
+        "name": "Leeks",
+        "category": "None",
+        "intro":"Hybrid. Early-season, 12- to 14-inch, mild-flavored, thick interiors with upright, dark blue-green flag. Resists bolting. ",
+        "img_path": "../assets/images/Celebrity.jpg",
+        "yield": 3,
+        "taste": 5,
+        "reviews":["r11","r12","r13", "r4","r15","r9" ]
+    },
+    "chelsea": {
+        "name": "Chelsea Prize",
+        "category": "Cucumber",
+        "intro":"Hybrid. Early cherry tomato with red, round, 1 3/4-inch, 3/4- to 1-ounce fruit. Indeterminate plants. Disease resistant variety. Resistance to Fusarium wilt and tobacco mosaic virus.About 67 to 68 days to maturity.",
+        "img_path": "../assets/images/Celebrity.jpg",
+        "yield": 5,
+        "taste": 3,
+        "reviews":["r10","r2","r9", "r12","r13","r16"]
+    },
+    "vernal": {
+        "name": "vernal",
+        "category": "Eggplant",
+        "intro":"Midseason hybrid. 7-inch, jet-black, teardrop-shaped fruit with green calyx. Medium size plant with few spines. Tolerant of cucumber and tobacoo mosaic viruses. ",
+        "img_path": "../assets/images/Celebrity.jpg",
+        "yield": 4,
+        "taste": 5,
+        "reviews":["r5","r7","r12", "r11","r14","r15"]
+    },
+    "picador": {
+        "name": "Picador",
+        "category": "Celery",
+        "intro":"Butterhead (bibb/Boston) type. Compact, 5- to 7-inch heads with dark-green outer and creamy-white inner leaves. Very fast to head. Heat and bolting tolerant.",
+        "img_path": "../assets/images/Celebrity.jpg",
+        "yield": 5,
+        "taste": 5,
+        "reviews":["r3","r12","r14", "r10","r15","r16","r7"]
+    },
+    "vision": {
+        "name": "Vision",
+        "category": "onions",
+        "intro":"Mid-season, supersweet (sh2), yellow corn. 7 1/2- to 8-inch ears with 16 to 18 rows or kernals. Good cool soil germination. ",
+        "img_path": "../assets/images/Celebrity.jpg",
+        "yield": 5,
+        "taste": 3,
+        "reviews":["r4","r5","r16","r12","r14","r9"]
+    },
+    "scotia": {
+        "name": "Scotia",
+        "category": "tomatoes",
+        "intro":"Hybrid. Early standard tomato with red, 8- to 10-ounce, globe-shaped fruit. Determinate plants with relatively long harvest season. Resistant to alternaria stem canker, fusarium races 1 and 2, verticillium and gray leaf spot.",
+        "img_path": "../assets/images/Celebrity.jpg",
+        "yield": 5,
+        "taste": 5,
+        "reviews":["r3","r12","r14", "r11","r5"]
+    },
+    "samba": {
+        "name": "Samba",
+        "category": "Celery",
+        "intro":"Medium-early maturing hybrid. Upright plants produce smooth, deep green leaves. Tolerates downy mildew and is slow to bolt.",
+        "img_path": "../assets/images/Celebrity.jpg",
+        "yield": 3,
+        "taste": 4,
+        "reviews":["r16","r12","r3", "r9","r7"]
+    },
+    "jupiter": {
+        "name": "Jupiter",
+        "category": "Gourds",
+        "intro":"Sweet bell type. Plants bear 4 1/2-inch, square, thick-walled, green fruit. Resistant to tobacco mosaic virus.",
+        "img_path": "../assets/images/Celebrity.jpg",
+        "yield": 5,
+        "taste": 5,
+        "reviews":["r6","r15","r8","r9","13","1"]
+    },
+    "sivan": {
+        "name": "Sivan",
+        "category": "Melons",
+        "intro":"Charentais-type hybrid. Vines bear orange-fleshed, round fruit with deep ridging and slight netting.",
+        "img_path": "../assets/images/Celebrity.jpg",
+        "yield": 3,
+        "taste": 5,
+        "reviews":["r1","r2","r3", "r14","r12","r1"]
+    }
+}
